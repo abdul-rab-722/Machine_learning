@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+ml-venv/
+classification/.ipynb_checkpoints/
+classification/datasets/
+classification/ensemble_python_voting/
+clustering/.ipynb_checkpoints/
+clustering/datasets/
+regression/.ipynb_checkpoints/
+regression/datasets/
+time-series/.ipynb_checkpoints/
+time-series/datasets/
